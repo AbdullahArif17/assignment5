@@ -1,7 +1,7 @@
 import Header from "@/components/Header/Header";
 import Image from "next/image";
 
-export const page = () => {
+export const Page = () => {
   return (
     <div>
       <Header />
@@ -27,7 +27,7 @@ export const page = () => {
   );
 };
 
-export default page;
+export default Page;
 
 
 
