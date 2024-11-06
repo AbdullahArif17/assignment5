@@ -5,7 +5,7 @@ export const page = () => {
   return (
     <div>
       <Header />
-      <div className="flex items-center m-8 ml-[176px] space-x-8">
+      <div className="flex items-center m-8 ml-[160px] space-x-8">
         <div>
           <h2 className="text-black text-4xl font-bold tracking-wide leading-tight p-8 text-left font-serif">
             IMPECCABLE CRAFTSMANSHIP AND FINESSE
