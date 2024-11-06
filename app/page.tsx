@@ -1,7 +1,7 @@
 import Header from "@/components/Header/Header";
 import Image from "next/image";
 
-export const Page = () => {
+const Page = () => {
   return (
     <div>
       <Header />
